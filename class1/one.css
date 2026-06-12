@@ -1,3 +1,11 @@
-h1,h2{
+.nithin{
     background-color: red;
+    color: rgb(239, 200, 28);
+    text-align: center;
+    
+}
+.saniya{
+color: black;
+text-align: center;
+background-color: rgb(180, 180, 13);
 }
