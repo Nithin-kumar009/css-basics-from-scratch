@@ -10,3 +10,8 @@ text-align: center;
 background-color: rgb(180, 180, 13);
 font-family: cursive;
 }
+h4,p{
+    background-color: aqua;
+    text-align: center;
+    color: rgb(239, 200, 28);;
+}
